@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/Shape.deps.json
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/Shape.runtimeconfig.json
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/Shape.runtimeconfig.dev.json
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/Shape.AssemblyInfo.cs
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/Shape.dll
+/Users/Guest/Desktop/triangle/bin/Debug/netcoreapp1.1/Shape.pdb
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/Shape.dll
+/Users/Guest/Desktop/triangle/obj/Debug/netcoreapp1.1/Shape.pdb

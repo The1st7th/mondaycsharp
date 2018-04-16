@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Triangle</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+  </head>
+  <body>
+    <h1>Triangle</h1>
+    <form action= "/calculate">
+      <div class="form-group">
+         <label for="sideA">Length of First Side</label>
+         <input type="sideA" class="form-control" name="sideA" placeholder="sideA">
+      </div>
+      <div class="form-group">
+         <label for="sideB">Length of Second Side</label>
+         <input type="sideB" class="form-control" name="sideB" placeholder="sideB">
+      </div>
+      <div class="form-group">
+         <label for="sideC">Length of Third Side</label>
+         <input type="sideC" class="form-control" name="sideC" placeholder="sideC">
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    @if(@Model != null){
+    <p> This triangle is a @Model.getmessage() </p>
+
+  }
+  </body>
+</html>
